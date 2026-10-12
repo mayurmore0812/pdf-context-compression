@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite this project and the original datasets/models when referring to its methods."
+type: software
+title: "Context Compression for LLM Pipelines — Evaluation in Progress"
+authors:
+  - family-names: More
+    given-names: Mayur
+repository-code: "https://github.com/mayurmore0812/pdf-context-compression"
+abstract: "Documentation of an academic PDF-to-Markdown context-compression prototype; evaluation is in progress and runnable code is not included."
